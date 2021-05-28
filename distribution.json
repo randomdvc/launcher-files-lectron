@@ -347,16 +347,7 @@
                     "MD5": "e1129616b41d3fe4cda286205c62a038"
                 }
             },
-            {
-                "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
-                "name": "OptiFine",
-                "type": "ForgeMod",
-                "artifact": {
-                    "size": 5520538,
-                    "url": "https://raw.githubusercontent.com/rldevelopement/launcher-files-lectron/master/servers/lectron-1.16.5/forgemods/required/OptiFine-1.16.5_HD_U_G8.jar",
-                    "MD5": "6176fa9a77c831d08f518ae3d60405a3"
-                }
-            },
+
             {
                 "id": "generated.library:OptiFine:1.16.5_HD_U_G8@jar",
                 "name": "OptiFine",

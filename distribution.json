@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "rss": "<LINK TO RSS FEED>",
     "discord": {
         "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -7,20 +7,20 @@
         "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "servers": [{
-        "id": "lectron-1.16.5",
-        "name": "lectron (Minecraft 1.16.5)",
-        "description": "lectron Running Minecraft 1.16.5 (Forge v36.1.24)",
-        "icon": null,
-        "version": "1.0.0",
-        "address": "localhost:25565",
-        "minecraftVersion": "1.16.5",
-        "discord": {
-            "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-            "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-            "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-        },
-        "mainServer": false,
-        "autoconnect": false,
+        "id": "Lectron-1.16.5",
+      "name": "Lectron",
+      "description": "Online Virtual Community",
+      "icon": null,
+      "version": "2.0.0",
+      "address": "mc.lectron.com",
+      "minecraftVersion": "1.16.5",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
         "modules": [{
                 "id": "net.minecraftforge:forge:1.16.5-36.1.24",
                 "name": "Minecraft Forge (base jar)",

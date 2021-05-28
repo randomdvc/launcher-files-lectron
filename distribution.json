@@ -334,18 +334,7 @@
                             "MD5": "ae37ed8407982eefc9f85fdb1c95a3a0",
                             "url": "https://raw.githubusercontent.com/rldevelopement/launcher-files-lectron/master/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
                         }
-                    },
-                               
-            {
-                "id": "generated.library:launchwrapper:of-2.2@jar",
-                "name": "launchwrapper",
-                "type": "Library",
-                "artifact": {
-                    "size": 15900,
-                    "url": "https://raw.githubusercontent.com/rldevelopement/launcher-files-lectron/master/servers/lectron-1.16.5/libraries/launchwrapper-of-2.2.jar",
-                    "MD5": "3b1ace749885406d51ebe762cf9adfed"
-                }
-            }
+                    }
                 ]
             },
             {
@@ -359,7 +348,7 @@
                 }
             },
             {
-                "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
+                "id": "net.optifine:optifine:1.16.5_HD_U_G8_MOD@jar",
                 "name": "OptiFine",
                 "type": "ForgeMod",
                 "artifact": {
@@ -368,7 +357,26 @@
                     "MD5": "6176fa9a77c831d08f518ae3d60405a3"
                 }
             },
-            
+            {
+                "id": "generated.library:OptiFine:1.16.5_HD_U_G8@jar",
+                "name": "OptiFine",
+                "type": "Library",
+                "artifact": {
+                    "size": 5520538,
+                    "url": "https://raw.githubusercontent.com/rldevelopement/launcher-files-lectron/master/servers/lectron-1.16.5/libraries/OptiFine-1.16.5_HD_U_G8.jar",
+                    "MD5": "6176fa9a77c831d08f518ae3d60405a3"
+                }
+            },
+            {
+                "id": "generated.library:launchwrapper:of-2.2@jar",
+                "name": "launchwrapper",
+                "type": "Library",
+                "artifact": {
+                    "size": 15900,
+                    "url": "https://raw.githubusercontent.com/rldevelopement/launcher-files-lectron/master/servers/lectron-1.16.5/libraries/launchwrapper-of-2.2.jar",
+                    "MD5": "3b1ace749885406d51ebe762cf9adfed"
+                }
+            }
         ]
     }]
 }

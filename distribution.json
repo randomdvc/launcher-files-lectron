@@ -334,21 +334,8 @@
                             "MD5": "ae37ed8407982eefc9f85fdb1c95a3a0",
                             "url": "https://raw.githubusercontent.com/rldevelopement/launcher-files-lectron/master/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
                         }
-                    }
-                ]
-            },
-            {
-                "id": "org.rldevelopement:lectronmod:1.0@jar",
-                "name": "Lectron",
-                "type": "ForgeMod",
-                "artifact": {
-                    "size": 52615,
-                    "url": "https://raw.githubusercontent.com/rldevelopement/launcher-files-lectron/master/servers/lectron-1.16.5/forgemods/required/lectron-1.0.jar",
-                    "MD5": "e1129616b41d3fe4cda286205c62a038"
-                }
-            },
-
-            {
+                    },
+                               {
                 "id": "generated.library:OptiFine:1.16.5_HD_U_G8@jar",
                 "name": "OptiFine",
                 "type": "Library",
@@ -368,6 +355,29 @@
                     "MD5": "3b1ace749885406d51ebe762cf9adfed"
                 }
             }
+                ]
+            },
+            {
+                "id": "org.rldevelopement:lectronmod:1.0@jar",
+                "name": "Lectron",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 52615,
+                    "url": "https://raw.githubusercontent.com/rldevelopement/launcher-files-lectron/master/servers/lectron-1.16.5/forgemods/required/lectron-1.0.jar",
+                    "MD5": "e1129616b41d3fe4cda286205c62a038"
+                }
+            },
+            {
+                "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
+                "name": "OptiFine",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 5520538,
+                    "url": "https://raw.githubusercontent.com/rldevelopement/launcher-files-lectron/master/servers/lectron-1.16.5/forgemods/required/OptiFine-1.16.5_HD_U_G8.jar",
+                    "MD5": "6176fa9a77c831d08f518ae3d60405a3"
+                }
+            },
+            
         ]
     }]
 }
